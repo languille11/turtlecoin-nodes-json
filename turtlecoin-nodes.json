@@ -181,6 +181,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Unakyte Turtle Node",
+      "url": "trtlnode.unakyte.fr",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
